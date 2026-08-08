@@ -1,0 +1,6 @@
+iot-ml-env/
+data/
+*.csv
+*.pkl
+.ipynb_checkpoints/
+__pycache__/
